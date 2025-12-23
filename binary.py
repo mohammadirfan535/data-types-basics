@@ -1,0 +1,10 @@
+number_1=123
+print(number_1)
+print(bin(number_1))
+print(oct(number_1))
+print(hex(number_1))
+num_2=535
+print(num_2)
+print(bin(num_2))
+print(oct(num_2))
+print(hex(num_2))
